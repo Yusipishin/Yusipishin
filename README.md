@@ -23,10 +23,14 @@
   <img alt="Feature Sliced Design" src="https://img.shields.io/badge/Feature Sliced Design-2B74D4?style=flat-square" />
   <img alt="i18n" src="https://img.shields.io/badge/i18n-26A69A?style=flat-square" />
   <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?logo=Storybook&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white" />
+  <img alt="React Testing Library" src="https://img.shields.io/badge/React Testing Library-CB3837" />
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-007780" />
+  <img alt="React Hook Form" src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square" />
+  <img alt="Headless UI" src="https://img.shields.io/badge/Headless UI-white?style=flat-square" />
   <img alt="Eslint" src="https://img.shields.io/badge/ESLint-3A33D1?logo=eslint" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="SCSS Modules" src="https://img.shields.io/badge/SCSS Modules-1A72B6?style=flat-square" />
-  <img alt="Headless UI" src="https://img.shields.io/badge/Headless UI-white?style=flat-square" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Husky" src="https://img.shields.io/badge/Husky-purple?style=flat-square" />
   <img alt="Loki" src="https://img.shields.io/badge/Loki-00C3FF?style=flat-square" />
@@ -36,10 +40,6 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<!-- <img alt="React Hook Form" src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square" /> -->
-  <!-- <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white" /> -->
-  <!-- <img alt="React Testing Library" src="https://img.shields.io/badge/React Testing Library-CB3837" /> -->
-  <!-- <img alt="Cypress" src="https://img.shields.io/badge/Cypress-007780" /> -->
 
 </p>
 
